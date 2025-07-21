@@ -2,7 +2,7 @@
   <h2 align="center">🏅 LeetCode Info</h2>  
   <p align="center">
     <a href="https://leetcode.com/sourabh_rm/" target="_blank">
-      <img src="https://raw.githubusercontent.com/sourabhm-25/sourabhm-25/main/50-days-badge-2025.png" alt="50 Days Badge 2025" height="200" width="200" />
+      <img src="https://github.com/sourabhm-25/sourabhm-25/blob/main/50-days-badge-2025.gif" alt="50 Days Badge 2025" height="200" width="200" />
     </a>
   </p>
   
